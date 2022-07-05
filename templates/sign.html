@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://kit.fontawesome.com/f6be5bb26b.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='img/icone.ico') }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ url_for('static', filename='sign.css') }}">
+    <title>Sign in</title>
+</head>
+<body>
+    <p>
+        <img src="{{ url_for('static', filename='img/logo-branca.svg') }}" alt=""> <br> <br>
+        Gerencie seu negocio de forma pratica e eficiente
+    </p>
+    
+    <form method="post">
+
+        Insira seus dados aqui <br>
+        <input type="text" placeholder="Usuario" name="usuario" id="usuario">
+        <input type="email" placeholder="Email" name="email" id="email">
+        <input type="password" placeholder="Senha" name="senha" id="senha">
+        <input type="password" placeholder="Confirmar senha" name="confirmar_senha" id="confirmar_senha">
+
+        <input type="submit" value="Cadastre-se">
+
+        <button>
+            <i class="fab fa-google"></i> Entre com Google
+        </button> <br>
+        <button>
+            <i class="fab fa-facebook-f"></i> Entre com Facebook
+        </button>
+        
+        <p id="link">Já tem uma conta? <a href="login.html">Faça login</a></p>
+    </form>
+
+    <script src="request.js"></script>
+
+    <script>
+        function cadastrar() {
+            var usuario = document.getElementById('usuario').value
+            var email = document.getElementById('email').value
+            var senha = document.getElementById('senha').value
+            var confirmar_senha = document.getElementById('confirmar_senha').value
+            
+            if (senha != confirmar_senha) {
+                console.log('senhas diferentes')
+            } 
+            else {
+                body = {
+                        "usuario": usuario,
+                        "email": email,
+                        "senha": senha
+                        }
+                fetch('http://127.0.0.1:5000/user').then(response => response.json).then(window.alert)
+            }
+        }
+    </script>
+</body>
+</html>

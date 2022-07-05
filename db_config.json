@@ -1,0 +1,9 @@
+{
+    "secret_key": "mosaic",
+    "host": "ec2-44-195-162-77.compute-1.amazonaws.com",
+    "database": "dbgmdtj9280enl",
+    "port": "5432",
+    "user": "rrbshzmpfqhsmt",
+    "password": "e762fe7d6c7972ebbeb2d86c49a941038dd4c8af22b1340563df483f65ecf3b3",
+    "uri": "postgresql://rrbshzmpfqhsmt:e762fe7d6c7972ebbeb2d86c49a941038dd4c8af22b1340563df483f65ecf3b3@ec2-44-195-162-77.compute-1.amazonaws.com:5432/dbgmdtj9280enl"
+}

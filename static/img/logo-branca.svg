@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1544px" height="1387px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1544 1387.482"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="735" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Azonix">
+		<font-face-src>
+			<font-face-name name="AzonixRegular"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="M" horiz-adv-x="800" d="M625.001 604l-225.001 -173 -225 173 -125 95.9999 0 -700 125 0 0 446 123.001 -94.0001 101.999 -78.9999 102 78.9999 123.001 94.0001 0 -446 125 0 0 700 -125 -95.9999z"/>
+   <glyph unicode="a" horiz-adv-x="734" d="M660.001 125.001l-293 575 -293 -575 -64.0006 -125.001 140 0 64.0006 125.001 153 299.999 152.999 -299.999 64.0006 -125.001 140 0 -63.9996 125.001z"/>
+   <glyph unicode="c" horiz-adv-x="790" d="M390 575l350.001 0 0 125 -350.001 0c-193,0 -350,-157 -350,-350 0,-193.001 157,-350.001 350,-350.001l350.001 0 0 125.001 -350.001 0c-124,0 -225,100.999 -225,225 0,124 101,225 225,225z"/>
+   <glyph unicode="i" horiz-adv-x="224" d="M175 0l0 700 -125 0 0 -700 125 0z"/>
+   <glyph unicode="o" horiz-adv-x="752" d="M376.001 700c-193.001,0 -350.001,-157 -350.001,-350 0,-193.001 157,-350.001 350.001,-350.001 193,0 350,157 350,350.001 0,193 -157,350 -350,350zm0 -575c-124.001,0 -225,100.999 -225,225 0,124 100.999,225 225,225 124,0 225,-101 225,-225 0,-124.001 -101,-225 -225,-225z"/>
+   <glyph unicode="s" horiz-adv-x="761" d="M712.001 507l0 3.99956c0,104 -85.0002,189 -189,189l-284 0c-104,0 -188,-85.0002 -188,-189l0 -3.99956c0,-40.0004 11.9996,-77.0001 33.0002,-107.001 7.00018,-10.9997 14.9993,-20.9996 24.0002,-29.9996 33.9991,-33.0002 79.9998,-52.9999 131,-52.9999l252 0c52.9999,0 96.9998,-43 96.9998,-95.9999 0,-53.0008 -43.9999,-95.9999 -96.9998,-95.9999l-219 0c-53.0008,0 -96.0009,42.9991 -96.0009,95.9999l-125 0c0,-122.001 98.9996,-221 221,-221l219 0c122,0 221,98.9996 221,221 0,52.9999 -19.0008,101.999 -50.0002,140 -3.00062,2.99967 -5.0004,6.00029 -8.00007,8.99996 -40.0004,43.9999 -97.9997,71.9997 -163,71.9997l-252 0c-35,0 -64.0006,29.0006 -64.0006,64.0006l0 3.99956c0,35 29.0006,64.0006 64.0006,64.0006l284 0c35,0 63.9996,-29.0006 63.9996,-64.0006l0 -3.99956 125.001 0.99989z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Azonix";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:none}
+    .fil1 {fill:#FEFEFE}
+    .fnt0 {font-weight:normal;font-size:397.645px;font-family:'Azonix'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1738370411392">
+   <g id="_1391912798704">
+    <g>
+     <g>
+      <polyline class="fil0" points="101.597,809.644 101.597,224.982 376.703,355.101 "/>
+      <polyline class="fil0" points="376.703,355.101 376.703,951.113 101.597,809.644 "/>
+     </g>
+     <polygon class="fil1" points="1041.495,595.787 414.503,956.852 411.093,355.101 1041.495,-0.255 "/>
+     <g>
+      <polyline class="fil0" points="1350.991,141.213 1350.991,725.876 1075.884,595.787 "/>
+      <polyline class="fil0" points="1075.884,595.787 1075.884,-0.255 1350.991,141.213 "/>
+     </g>
+     <g>
+      <polyline class="fil0" points="726.309,144.773 393.883,322.431 101.597,192.303 "/>
+      <polyline class="fil0" points="101.597,192.303 434.023,14.645 726.309,144.773 "/>
+     </g>
+     <g>
+      <polyline class="fil0" points="1350.991,756.235 1018.595,933.903 726.309,803.804 "/>
+      <polyline class="fil0" points="726.309,803.804 1058.705,626.147 1350.991,756.235 "/>
+     </g>
+    </g>
+    <polygon class="fil1" points="414.503,956.852 1041.495,595.787 1041.495,-0.255 411.093,355.101 "/>
+    <polygon class="fil1" points="376.703,951.113 376.703,355.101 101.597,224.982 101.597,809.644 "/>
+    <polygon class="fil1" points="1075.884,-0.255 1075.884,595.787 1350.991,725.876 1350.991,141.213 "/>
+    <polygon class="fil1" points="726.309,144.773 434.023,14.645 101.597,192.303 393.883,322.431 "/>
+    <polygon class="fil1" points="1058.705,626.147 726.309,803.804 1018.595,933.903 1350.991,756.265 "/>
+   </g>
+   <g>
+    <g transform="matrix(1 0 0 1 -790.372 693.491)">
+     <text x="772" y="693.741"  class="fil1 fnt0">Mosaic</text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

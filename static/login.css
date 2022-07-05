@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'elianto';
+    src: format('truetype') url('fontes/Elianto-Regular.ttf')
+         format('opentype') url('fontes/Elianto-Regular.otf');
+}
+
+@font-face {
+    font-family: 'azonix';
+    src: format('opentype') url('fontes/Azonix.otf');
+}
+
+html {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    height: inherit;
+}
+#particles-js {
+    background-image: linear-gradient(to bottom right, #220e40, #000096);
+    color: white;
+    font-size: 50px;
+    flex: 1 1 500px;
+    display: block;
+}
+#particles-js p {
+    color: #fff;
+    font-size: 72px;
+    position: absolute;
+    text-align: center;
+    padding: 20px
+}
+main {
+    background-color: #f3f3f4;
+    flex: 1 1 300px;
+    padding: 0;
+    max-width: 500px;
+}
+img {
+    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    min-width: 260px;
+    max-width: 330px;
+}
+form {
+    padding: 10px;
+    font-size: 20px;
+    height: 100%;
+    width: 300px;
+    min-width: 280px;
+    max-width: 350px;
+    margin: auto;
+}
+input{
+    height: 35px;
+    font-size: 20px;
+    width: 280px; 
+    border: 1px solid #c8c8c8;
+    background-color: #f3f3f4;
+    padding: 0 10px;
+    margin: 5px auto;
+}
+input:focus {
+    outline: none;
+}
+input[type="submit" i] {
+    font-size: 20px;
+    background-color: #000096;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    margin: 5px 10px;
+}
+input[type="submit" i]:active {
+    background-color: #220e40;
+}
+
+p {
+    text-align: center;
+    color: rgb(110, 120, 125);
+    font-size: 30px;
+    font-family: 'azonix';
+    margin: 0;
+}
+
+p#erro{
+    margin-top: 10px;
+    font-size: 15px;
+    color: #f00;
+}
+a:active {
+    color: #220e40;
+}
+a:visited {
+    color: #000096;
+}
+@media (max-width: 500px) {
+    #particles-js {
+        display: none;
+    }
+}
